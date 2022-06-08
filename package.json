@@ -1,0 +1,8 @@
+{
+  "name": "nginx-gw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Garth Pickell <garth.pickell@vertigis.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.1"
+}
